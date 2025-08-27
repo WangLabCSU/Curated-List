@@ -79,8 +79,9 @@
 
 ## Platforms
 
-- https://huggingface.co/
-- https://ollama.com/
+- <https://huggingface.co/>
+- <https://ollama.com/>
+- Rocker: <https://rocker-project.org/>
 - [DeepBIO is a user-friendly interpretable deep-learning platform for biological sequence functional analysis](https://inner.wei-group.net/DeepBIO/#/)
 
 ## Tools
@@ -122,3 +123,20 @@
 - [CNN Convoluter](https://pwwang.github.io/cnn-convoluter/)
 - [The basic distribution probability Tutorial for Deep Learning Researchers](https://github.com/graykode/distribution-is-all-you-need)
 - [Humanity's Last Exam](https://agi.safe.ai/)
+
+## File Formats
+
+- [BED](https://bedtools.readthedocs.io/en/latest/content/general-usage.html)
+- [MAF](https://docs.gdc.cancer.gov/Data/File_Formats/MAF_Format/)
+- [VEP](https://asia.ensembl.org/info/docs/tools/vep/vep_formats.html)
+
+## 镜像站
+
+- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
+- [中国科学技术大学开源软件镜像](https://mirrors.ustc.edu.cn/help/)
+- [南大镜像](https://mirrors.nju.edu.cn/)
+- [GNU FTP](http://ftp.gnu.org/gnu/)
+- [NCBI FTP](ftp://ftp.ncbi.nlm.nih.gov/)
+- [ENSEMBL FTP](ftp://ftp.ensembl.org/pub)
+- [Broad FTP](ftp://ftp.broadinstitute.org/pub/)
+- [HAPMAP FTP](ftp://ftp.ncbi.nlm.nih.gov/hapmap/)
