@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Bookmark raw backups/JSON files containing unfiltered bookmarks
+scripts/all_bookmarks.json
+*.json
