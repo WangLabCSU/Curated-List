@@ -4,16 +4,16 @@
 
 ## 📌 目录 (Table of Contents)
 
-- [📚 R 语言学习书籍 (R Books)](#r-语言学习书籍-r-books)
-- [📚 Python 语言学习书籍 (Python Books)](#python-语言学习书籍-python-books)
-- [📚 Go 语言学习书籍 (Go Books)](#go-语言学习书籍-go-books)
-- [📚 生物统计与生物信息学书籍 (Bioinformatics Books)](#生物统计与生物信息学书籍-bioinformatics-books)
-- [📚 计算机与数据科学综合书籍 (General Books)](#计算机与数据科学综合书籍-general-books)
-- [🎓 精选在线课程 (Online Courses)](#精选在线课程-online-courses)
-- [✍️ 优质个人与团队技术博客 (Tech Blogs)](#优质个人与团队技术博客-tech-blogs)
-- [📖 官方开发文档与参考手册 (Documentations)](#官方开发文档与参考手册-documentations)
-- [📋 资源汇总与精选项目列表 (Curated Lists)](#资源汇总与精选项目列表-curated-lists)
-- [🌐 实用技术网站与门户 (Tech Portals)](#实用技术网站与门户-tech-portals)
+- [📚 R 语言学习书籍 (R Books)](#-r-语言学习书籍-r-books)
+- [📚 Python 语言学习书籍 (Python Books)](#-python-语言学习书籍-python-books)
+- [📚 Go 语言学习书籍 (Go Books)](#-go-语言学习书籍-go-books)
+- [📚 生物统计与生物信息学书籍 (Bioinformatics Books)](#-生物统计与生物信息学书籍-bioinformatics-books)
+- [📚 计算机与数据科学综合书籍 (General Books)](#-计算机与数据科学综合书籍-general-books)
+- [🎓 精选在线课程 (Online Courses)](#-精选在线课程-online-courses)
+- [✍️ 优质个人与团队技术博客 (Tech Blogs)](#️-优质个人与团队技术博客-tech-blogs)
+- [📖 官方开发文档与参考手册 (Documentations)](#-官方开发文档与参考手册-documentations)
+- [📋 资源汇总与精选项目列表 (Curated Lists)](#-资源汇总与精选项目列表-curated-lists)
+- [🌐 实用技术网站与门户 (Tech Portals)](#-实用技术网站与门户-tech-portals)
 
 ---
 

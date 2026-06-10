@@ -4,16 +4,16 @@
 
 ## 📌 目录 (Table of Contents)
 
-- [🧹 数据清洗与预处理 (Data Processing)](#数据清洗与预处理-data-processing)
-- [📈 统计与机器学习建模 (Data Modeling)](#统计与机器学习建模-data-modeling)
-- [📊 统计分析与假设检验 (Statistical Analysis)](#统计分析与假设检验-statistical-analysis)
-- [🔠 字体与排版设计 (Fonts & Typography)](#字体与排版设计-fonts--typography)
-- [📋 表格数据处理与美化 (Table Processing)](#表格数据处理与美化-table-processing)
-- [🎨 颜色方案与美学管理 (Color Management)](#颜色方案与美学管理-color-management)
-- [🎨 常用绘图配色方案 (Color Palettes)](#常用绘图配色方案-color-palettes)
-- [📊 数据可视化与图表绘制 (Data Visualization)](#数据可视化与图表绘制-data-visualization)
-- [📈 最优化算法与计算 (Optimization)](#最优化算法与计算-optimization)
-- [🧮 经典算法与数理统计 (Algorithms & Stats)](#经典算法与数理统计-algorithms--stats)
+- [🧹 数据清洗与预处理 (Data Processing)](#-数据清洗与预处理-data-processing)
+- [📈 统计与机器学习建模 (Data Modeling)](#-统计与机器学习建模-data-modeling)
+- [📊 统计分析与假设检验 (Statistical Analysis)](#-统计分析与假设检验-statistical-analysis)
+- [🔠 字体与排版设计 (Fonts & Typography)](#-字体与排版设计-fonts--typography)
+- [📋 表格数据处理与美化 (Table Processing)](#-表格数据处理与美化-table-processing)
+- [🎨 颜色方案与美学管理 (Color Management)](#-颜色方案与美学管理-color-management)
+- [🎨 常用绘图配色方案 (Color Palettes)](#-常用绘图配色方案-color-palettes)
+- [📊 数据可视化与图表绘制 (Data Visualization)](#-数据可视化与图表绘制-data-visualization)
+- [📈 最优化算法与计算 (Optimization)](#-最优化算法与计算-optimization)
+- [🧮 经典算法与数理统计 (Algorithms & Stats)](#-经典算法与数理统计-algorithms--stats)
 
 ---
 

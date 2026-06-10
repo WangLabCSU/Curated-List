@@ -4,11 +4,11 @@
 
 ## 📌 目录 (Table of Contents)
 
-- [🤖 传统机器学习算法与资源 (Machine Learning)](#传统机器学习算法与资源-machine-learning)
-- [🧠 深度学习与神经网络架构 (Deep Learning)](#深度学习与神经网络架构-deep-learning)
-- [🌐 常用 AI 开发与托管平台 (AI Platforms)](#常用-ai-开发与托管平台-ai-platforms)
-- [🤖 大语言模型与本地推理引擎 (LLMs & Inference)](#大语言模型与本地推理引擎-llms--inference)
-- [🎨 AI 搜索、文生图与大模型导航 (AI Tools & Navigation)](#ai-搜索文生图与大模型导航-ai-tools--navigation)
+- [🤖 传统机器学习算法与资源 (Machine Learning)](#-传统机器学习算法与资源-machine-learning)
+- [🧠 深度学习与神经网络架构 (Deep Learning)](#-深度学习与神经网络架构-deep-learning)
+- [🌐 常用 AI 开发与托管平台 (AI Platforms)](#-常用-ai-开发与托管平台-ai-platforms)
+- [🤖 大语言模型与本地推理引擎 (LLMs & Inference)](#-大语言模型与本地推理引擎-llms--inference)
+- [🎨 AI 搜索、文生图与大模型导航 (AI Tools & Navigation)](#-ai-搜索文生图与大模型导航-ai-tools--navigation)
 
 ---
 

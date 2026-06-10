@@ -4,9 +4,9 @@
 
 ## 📌 目录 (Table of Contents)
 
-- [🗄️ 综合数据中心 (Data Centers)](#综合数据中心-data-centers)
-- [🏷️ 基因与功能注释库 (Annotation Databases)](#基因与功能注释库-annotation-databases)
-- [📦 数据下载与接口工具包 (Data Download Utilities)](#数据下载与接口工具包-data-download-utilities)
+- [🗄️ 综合数据中心 (Data Centers)](#️-综合数据中心-data-centers)
+- [🏷️ 基因与功能注释库 (Annotation Databases)](#️-基因与功能注释库-annotation-databases)
+- [📦 数据下载与接口工具包 (Data Download Utilities)](#-数据下载与接口工具包-data-download-utilities)
 
 ---
 
