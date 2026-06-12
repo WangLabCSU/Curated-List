@@ -55,7 +55,6 @@
 - [r-rudra/tidycells: Automatic transformation of untidy spreadsheet-like data into tidy form](https://github.com/r-rudra/tidycells)
 - [RcppParallel](https://rcppcore.github.io/RcppParallel/)
 - [richfitz/storr: Object cacher for R](https://github.com/richfitz/storr)
-- [ritchie46/polars: Rust DataFrame library](https://github.com/ritchie46/polars)
 - [rnabioco/valr: Genome Interval Arithmetic in R](https://github.com/rnabioco/valr)
 - [ropensci/assertr: Assertive programming for R analysis pipelines](https://github.com/ropensci/assertr)
 - [ropensci/pdftools: Text Extraction, Rendering and Converting of PDF Documents](https://github.com/ropensci/pdftools)
@@ -220,7 +219,6 @@
 ## 📊 数据可视化与图表绘制 (Data Visualization)
 
 - [1 Grammar of Graphics for base plot | Documents for my packages](https://yulab-smu.top/pkgdocs/plotbb.html)
-- [1 Grammar of Graphics for base plot | Documents for my packages](https://yulab-smu.top/pkgdocs/plotbb.html#using-existing-code-with-plotbb)
 - [A High-Level Grammar of Interactive Graphics | Vega-Lite](https://vega.github.io/vega-lite/)
 - [adayim/forestploter: Draw forest plot](https://github.com/adayim/forestploter)
 - [AllanCameron/geomtextpath: Create curved text paths in ggplot2](https://github.com/AllanCameron/geomtextpath)
@@ -297,7 +295,6 @@
 - [junjunlab/jjAnno: An annotation package for ggplot plot](https://github.com/junjunlab/jjAnno)
 - [karoliskoncevicius/basetheme: Themes for base plotting system in R](https://github.com/karoliskoncevicius/basetheme)
 - [kevinblighe/PCAtools: PCAtools: everything Principal Components Analysis](https://github.com/kevinblighe/PCAtools)
-- [KKPMW/basetheme: Themes for base plotting system in R](https://github.com/KKPMW/basetheme)
 - [krassowski/complex-upset: A library for creating complex UpSet plots with ggplot2 geoms](https://github.com/krassowski/complex-upset)
 - [krzjoa/awesome-r-dataviz: Curated resources about Data Visualization, Drawing & Publishing in R](https://github.com/krzjoa/awesome-r-dataviz)
 - [larmarange/ggstats: Extension to ggplot2 for plotting stats](https://github.com/larmarange/ggstats/)
