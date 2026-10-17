@@ -215,6 +215,7 @@
 - [caj2pdf/caj2pdf: Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。](https://github.com/caj2pdf/caj2pdf)
 - [Citation Gecko](https://www.citationgecko.com/)
 - [crsh/citr: RStudio Addin to Insert Markdown Citations](https://github.com/crsh/citr)
+- [Doc2X](https://doc2x.noedgeai.com/) - PDF、扫描件和图片转换为 Word、Markdown、LaTeX，识别公式与表格并支持文档翻译；网页需账号，有有限免费用量与付费升级，云端处理，API 独立收费。
 - [frankgenome/DataColor: DataColor: Unveiling Biological Data Relationships through Distinctive Color Mapping](https://github.com/frankgenome/DataColor)
 - [iLabPlus智慧实验室](https://www.ilab.cn/)
 - [kaixindelele/ChatPaper: Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复](https://github.com/kaixindelele/ChatPaper)
